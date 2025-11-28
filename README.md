@@ -215,5 +215,5 @@ MIT License - See LICENSE file for details.
 
 ---
 
-Built with ❤️ for disaster relief coordination
+Built with ❤️ for disaster relief coordination by team CODE BLACK
 
